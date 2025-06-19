@@ -29,6 +29,11 @@ public class MysteryBlockRenderer implements BlockEntityRenderer<MysteryBlockEnt
         Player player = mc.player;
         if (player == null) return;
         
+        // デバッグ用ログ出力（初回のみ）
+        if (Math.random() < 0.001) { // 0.1%の確率でログ出力（フレームレート考慮）
+            System.out.println("MysteryBlockRenderer: Rendering text for block at " + blockEntity.getBlockPos());
+        }
+        
         BlockPos blockPos = blockEntity.getBlockPos();
         Vec3 playerPos = player.getEyePosition(partialTick);
         Vec3 blockCenter = Vec3.atCenterOf(blockPos);

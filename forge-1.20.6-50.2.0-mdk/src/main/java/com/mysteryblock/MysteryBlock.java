@@ -16,6 +16,9 @@ import net.minecraft.world.level.block.EntityBlock;
 import net.minecraft.world.level.block.entity.BlockEntity;
 import net.minecraft.world.level.block.state.BlockState;
 import net.minecraft.world.phys.Vec3;
+import net.minecraft.world.InteractionHand;
+import net.minecraft.world.InteractionResult;
+import net.minecraft.world.phys.BlockHitResult;
 import net.minecraftforge.registries.ForgeRegistries;
 import org.jetbrains.annotations.Nullable;
 
@@ -70,6 +73,20 @@ public class MysteryBlock extends Block implements EntityBlock {
         }
     }
     
+    @Override
+    public InteractionResult useWithoutItem(BlockState state, Level level, BlockPos pos, Player player, BlockHitResult hit) {
+        if (!level.isClientSide) {
+            // 右クリックでブロックを破壊（左クリックと同じ処理）
+            BlockEntity blockEntity = level.getBlockEntity(pos);
+            if (blockEntity instanceof MysteryBlockEntity) {
+                // playerDestroy メソッドと同じ処理を実行
+                this.playerDestroy(level, player, pos, state, blockEntity, player.getMainHandItem());
+                return InteractionResult.SUCCESS;
+            }
+        }
+        return InteractionResult.sidedSuccess(level.isClientSide);
+    }
+
     @Override
     public void onPlace(BlockState state, Level level, BlockPos pos, BlockState oldState, boolean isMoving) {
         super.onPlace(state, level, pos, oldState, isMoving);

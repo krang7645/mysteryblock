@@ -14,5 +14,6 @@ public class ClientEventHandler {
     public static void onRegisterRenderers(EntityRenderersEvent.RegisterRenderers event) {
         // MysteryBlockEntityのレンダラーを登録
         event.registerBlockEntityRenderer(MysteryBlockEntityType.MYSTERY_BLOCK_ENTITY.get(), MysteryBlockRenderer::new);
+        System.out.println("MysteryBlock: Block entity renderer registered successfully!");
     }
 }

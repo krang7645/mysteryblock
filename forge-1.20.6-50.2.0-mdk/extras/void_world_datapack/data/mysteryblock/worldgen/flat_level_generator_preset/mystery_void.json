@@ -1,0 +1,13 @@
+{
+  "display": "minecraft:barrier",
+  "settings": {
+    "biome": "minecraft:the_void",
+    "layers": [
+      { "block": "minecraft:air", "height": 1 }
+    ],
+    "features": false,
+    "lakes": false,
+    "structure_overrides": [],
+    "structures": false
+  }
+}

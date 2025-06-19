@@ -1,0 +1,24 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:endermite",
+      "weight": 9
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:enderman",
+      "weight": 6
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:endermite",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:shulker",
+      "weight": 2
+    }
+  ]
+}

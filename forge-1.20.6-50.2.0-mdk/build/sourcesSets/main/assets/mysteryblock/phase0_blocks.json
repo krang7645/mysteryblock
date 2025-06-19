@@ -1,0 +1,11 @@
+{
+  "drops": [
+    { "type": "block", "item": "minecraft:grass_block", "weight": 90 },
+    { "type": "block", "item": "minecraft:clay", "weight": 25 },
+    { "type": "block", "item": "minecraft:podzol", "weight": 15 },
+    { "type": "block", "item": "minecraft:oak_log", "weight": 20 },
+    { "type": "block", "item": "minecraft:birch_log", "weight": 15 },
+    { "type": "block", "item": "minecraft:melon", "weight": 10 },
+    { "type": "block", "item": "minecraft:pumpkin", "weight": 6 }
+  ]
+}

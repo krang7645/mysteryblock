@@ -1,0 +1,39 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:parrot",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:vex",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:ocelot",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:panda",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:witch",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:skeleton",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:horse",
+      "weight": 2
+    }
+  ]
+}

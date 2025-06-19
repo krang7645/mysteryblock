@@ -1,0 +1,49 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:llama",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:armadillo",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:villager",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:camel",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:husk",
+      "weight": 4
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:pillager",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:wandering_trader",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:donkey",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:vindicator",
+      "weight": 2
+    }
+  ]
+}

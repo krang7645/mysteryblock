@@ -1,0 +1,89 @@
+{
+  "drops": [
+    {
+      "type": "block",
+      "item": "minecraft:grass_block",
+      "weight": 90
+    },
+    {
+      "type": "block",
+      "item": "minecraft:clay",
+      "weight": 25
+    },
+    {
+      "type": "block",
+      "item": "minecraft:podzol",
+      "weight": 15
+    },
+    {
+      "type": "block",
+      "item": "minecraft:oak_log",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:birch_log",
+      "weight": 15
+    },
+    {
+      "type": "block",
+      "item": "minecraft:melon",
+      "weight": 10
+    },
+    {
+      "type": "block",
+      "item": "minecraft:pumpkin",
+      "weight": 6
+    },
+    {
+      "type": "block",
+      "item": "minecraft:stone",
+      "weight": 100
+    },
+    {
+      "type": "block",
+      "item": "minecraft:gravel",
+      "weight": 45
+    },
+    {
+      "type": "block",
+      "item": "minecraft:dirt",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:dark_oak_log",
+      "weight": 30
+    },
+    {
+      "type": "block",
+      "item": "minecraft:granite",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:diorite",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:andesite",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:calcite",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:coal_ore",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:iron_ore",
+      "weight": 14
+    }
+  ]
+}

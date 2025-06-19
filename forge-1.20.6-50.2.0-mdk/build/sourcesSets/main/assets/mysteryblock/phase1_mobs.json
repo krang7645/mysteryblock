@@ -1,0 +1,24 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:pig",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:cow",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:sheep",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:chicken",
+      "weight": 2
+    }
+  ]
+}

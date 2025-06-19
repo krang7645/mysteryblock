@@ -1,0 +1,39 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:turtle",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:drowned",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:axolotl",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:salmon",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:tropical_fish",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:guardian",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:cod",
+      "weight": 2
+    }
+  ]
+}

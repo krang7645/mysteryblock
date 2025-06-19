@@ -1,0 +1,34 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:silverfish",
+      "weight": 4
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:cave_spider",
+      "weight": 5
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:skeleton_horse",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:creeper",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:evoker",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:skeleton",
+      "weight": 4
+    }
+  ]
+}

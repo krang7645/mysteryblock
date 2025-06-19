@@ -1,0 +1,56 @@
+# Copyright: OneBlock by IJAMinecraft
+# https://ijaminecraft.com/map/oneblock/
+
+execute store result score @s ija-a4-villager-random-name run random value 1..52
+execute as @s[scores={ija-a4-villager-random-name=1}] run data merge entity @s {CustomName:"\"Angela\""}
+execute as @s[scores={ija-a4-villager-random-name=2}] run data merge entity @s {CustomName:"\"Brenda\""}
+execute as @s[scores={ija-a4-villager-random-name=3}] run data merge entity @s {CustomName:"\"Colette\""}
+execute as @s[scores={ija-a4-villager-random-name=4}] run data merge entity @s {CustomName:"\"Doris\""}
+execute as @s[scores={ija-a4-villager-random-name=5}] run data merge entity @s {CustomName:"\"Emma\""}
+execute as @s[scores={ija-a4-villager-random-name=6}] run data merge entity @s {CustomName:"\"Frida\""}
+execute as @s[scores={ija-a4-villager-random-name=7}] run data merge entity @s {CustomName:"\"Gemma\""}
+execute as @s[scores={ija-a4-villager-random-name=8}] run data merge entity @s {CustomName:"\"Heidi\""}
+execute as @s[scores={ija-a4-villager-random-name=9}] run data merge entity @s {CustomName:"\"Irena\""}
+execute as @s[scores={ija-a4-villager-random-name=10}] run data merge entity @s {CustomName:"\"Judith\""}
+execute as @s[scores={ija-a4-villager-random-name=11}] run data merge entity @s {CustomName:"\"Kendra\""}
+execute as @s[scores={ija-a4-villager-random-name=12}] run data merge entity @s {CustomName:"\"Linda\""}
+execute as @s[scores={ija-a4-villager-random-name=13}] run data merge entity @s {CustomName:"\"Martha\""}
+execute as @s[scores={ija-a4-villager-random-name=14}] run data merge entity @s {CustomName:"\"Nancy\""}
+execute as @s[scores={ija-a4-villager-random-name=15}] run data merge entity @s {CustomName:"\"Olivia\""}
+execute as @s[scores={ija-a4-villager-random-name=16}] run data merge entity @s {CustomName:"\"Pamela\""}
+execute as @s[scores={ija-a4-villager-random-name=17}] run data merge entity @s {CustomName:"\"Quinci\""}
+execute as @s[scores={ija-a4-villager-random-name=18}] run data merge entity @s {CustomName:"\"Ruth\""}
+execute as @s[scores={ija-a4-villager-random-name=19}] run data merge entity @s {CustomName:"\"Susan\""}
+execute as @s[scores={ija-a4-villager-random-name=20}] run data merge entity @s {CustomName:"\"Tracy\""}
+execute as @s[scores={ija-a4-villager-random-name=21}] run data merge entity @s {CustomName:"\"Undine\""}
+execute as @s[scores={ija-a4-villager-random-name=22}] run data merge entity @s {CustomName:"\"Veronica\""}
+execute as @s[scores={ija-a4-villager-random-name=23}] run data merge entity @s {CustomName:"\"Wanda\""}
+execute as @s[scores={ija-a4-villager-random-name=24}] run data merge entity @s {CustomName:"\"Xandria\""}
+execute as @s[scores={ija-a4-villager-random-name=25}] run data merge entity @s {CustomName:"\"Yvette\""}
+execute as @s[scores={ija-a4-villager-random-name=26}] run data merge entity @s {CustomName:"\"Zola\""}
+execute as @s[scores={ija-a4-villager-random-name=27}] run data merge entity @s {CustomName:"\"Arnold\""}
+execute as @s[scores={ija-a4-villager-random-name=28}] run data merge entity @s {CustomName:"\"Bob\""}
+execute as @s[scores={ija-a4-villager-random-name=29}] run data merge entity @s {CustomName:"\"Carl\""}
+execute as @s[scores={ija-a4-villager-random-name=30}] run data merge entity @s {CustomName:"\"Donald\""}
+execute as @s[scores={ija-a4-villager-random-name=31}] run data merge entity @s {CustomName:"\"Eric\""}
+execute as @s[scores={ija-a4-villager-random-name=32}] run data merge entity @s {CustomName:"\"Fernando\""}
+execute as @s[scores={ija-a4-villager-random-name=33}] run data merge entity @s {CustomName:"\"Griffin\""}
+execute as @s[scores={ija-a4-villager-random-name=34}] run data merge entity @s {CustomName:"\"Henry\""}
+execute as @s[scores={ija-a4-villager-random-name=35}] run data merge entity @s {CustomName:"\"Ian\""}
+execute as @s[scores={ija-a4-villager-random-name=36}] run data merge entity @s {CustomName:"\"Joe\""}
+execute as @s[scores={ija-a4-villager-random-name=37}] run data merge entity @s {CustomName:"\"Kai\""}
+execute as @s[scores={ija-a4-villager-random-name=38}] run data merge entity @s {CustomName:"\"Luis\""}
+execute as @s[scores={ija-a4-villager-random-name=39}] run data merge entity @s {CustomName:"\"Mateo\""}
+execute as @s[scores={ija-a4-villager-random-name=40}] run data merge entity @s {CustomName:"\"Norman\""}
+execute as @s[scores={ija-a4-villager-random-name=41}] run data merge entity @s {CustomName:"\"Owen\""}
+execute as @s[scores={ija-a4-villager-random-name=42}] run data merge entity @s {CustomName:"\"Patrick\""}
+execute as @s[scores={ija-a4-villager-random-name=43}] run data merge entity @s {CustomName:"\"Quinton\""}
+execute as @s[scores={ija-a4-villager-random-name=44}] run data merge entity @s {CustomName:"\"Randy\""}
+execute as @s[scores={ija-a4-villager-random-name=45}] run data merge entity @s {CustomName:"\"Scott\""}
+execute as @s[scores={ija-a4-villager-random-name=46}] run data merge entity @s {CustomName:"\"Terry\""}
+execute as @s[scores={ija-a4-villager-random-name=47}] run data merge entity @s {CustomName:"\"Usman\""}
+execute as @s[scores={ija-a4-villager-random-name=48}] run data merge entity @s {CustomName:"\"Vincent\""}
+execute as @s[scores={ija-a4-villager-random-name=49}] run data merge entity @s {CustomName:"\"Walter\""}
+execute as @s[scores={ija-a4-villager-random-name=50}] run data merge entity @s {CustomName:"\"Xander\""}
+execute as @s[scores={ija-a4-villager-random-name=51}] run data merge entity @s {CustomName:"\"Yakov\""}
+execute as @s[scores={ija-a4-villager-random-name=52}] run data merge entity @s {CustomName:"\"Zander\""}

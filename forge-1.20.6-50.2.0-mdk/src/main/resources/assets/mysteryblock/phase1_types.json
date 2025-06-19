@@ -1,0 +1,16 @@
+{
+  "types": [
+    {
+      "type": "block",
+      "weight": 181
+    },
+    {
+      "type": "mob",
+      "weight": 8
+    },
+    {
+      "type": "item",
+      "weight": 69
+    }
+  ]
+}

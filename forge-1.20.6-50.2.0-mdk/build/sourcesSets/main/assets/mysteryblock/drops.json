@@ -1,0 +1,7 @@
+{
+  "drops": [
+    { "type": "item", "item": "minecraft:diamond", "weight": 1 },
+    { "type": "block", "item": "minecraft:grass_block", "weight": 20 },
+    { "type": "mob", "item": "minecraft:cow", "weight": 5 }
+  ]
+}

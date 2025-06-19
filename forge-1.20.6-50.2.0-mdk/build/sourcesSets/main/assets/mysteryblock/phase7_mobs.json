@@ -1,0 +1,44 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:piglin",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:piglin_brute",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:magma_cube",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:hoglin",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:blaze",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:strider",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:wither_skeleton",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:ghast",
+      "weight": 2
+    }
+  ]
+}

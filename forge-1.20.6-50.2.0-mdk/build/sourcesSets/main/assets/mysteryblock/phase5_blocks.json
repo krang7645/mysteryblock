@@ -1,0 +1,229 @@
+{
+  "drops": [
+    {
+      "type": "block",
+      "item": "minecraft:grass_block",
+      "weight": 210
+    },
+    {
+      "type": "block",
+      "item": "minecraft:clay",
+      "weight": 45
+    },
+    {
+      "type": "block",
+      "item": "minecraft:podzol",
+      "weight": 15
+    },
+    {
+      "type": "block",
+      "item": "minecraft:oak_log",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:birch_log",
+      "weight": 15
+    },
+    {
+      "type": "block",
+      "item": "minecraft:melon",
+      "weight": 10
+    },
+    {
+      "type": "block",
+      "item": "minecraft:pumpkin",
+      "weight": 6
+    },
+    {
+      "type": "block",
+      "item": "minecraft:stone",
+      "weight": 189
+    },
+    {
+      "type": "block",
+      "item": "minecraft:gravel",
+      "weight": 65
+    },
+    {
+      "type": "block",
+      "item": "minecraft:dirt",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:dark_oak_log",
+      "weight": 30
+    },
+    {
+      "type": "block",
+      "item": "minecraft:granite",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:diorite",
+      "weight": 53
+    },
+    {
+      "type": "block",
+      "item": "minecraft:andesite",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:calcite",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:coal_ore",
+      "weight": 64
+    },
+    {
+      "type": "block",
+      "item": "minecraft:iron_ore",
+      "weight": 65
+    },
+    {
+      "type": "block",
+      "item": "minecraft:snow_block",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:spruce_log",
+      "weight": 50
+    },
+    {
+      "type": "block",
+      "item": "minecraft:packed_ice",
+      "weight": 25
+    },
+    {
+      "type": "block",
+      "item": "minecraft:gold_ore",
+      "weight": 25
+    },
+    {
+      "type": "block",
+      "item": "minecraft:amethyst_block",
+      "weight": 5
+    },
+    {
+      "type": "block",
+      "item": "minecraft:prismarine",
+      "weight": 80
+    },
+    {
+      "type": "block",
+      "item": "minecraft:sand",
+      "weight": 60
+    },
+    {
+      "type": "block",
+      "item": "minecraft:prismarine_bricks",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:dark_prismarine",
+      "weight": 30
+    },
+    {
+      "type": "block",
+      "item": "minecraft:mud",
+      "weight": 50
+    },
+    {
+      "type": "block",
+      "item": "minecraft:sea_lantern",
+      "weight": 20
+    },
+    {
+      "type": "block",
+      "item": "minecraft:dripstone_block",
+      "weight": 40
+    },
+    {
+      "type": "block",
+      "item": "minecraft:horn_coral_block",
+      "weight": 15
+    },
+    {
+      "type": "block",
+      "item": "minecraft:brain_coral_block",
+      "weight": 15
+    },
+    {
+      "type": "block",
+      "item": "minecraft:mangrove_log",
+      "weight": 30
+    },
+    {
+      "type": "block",
+      "item": "minecraft:sponge",
+      "weight": 13
+    },
+    {
+      "type": "block",
+      "item": "minecraft:fire_coral_block",
+      "weight": 12
+    },
+    {
+      "type": "block",
+      "item": "minecraft:bubble_coral_block",
+      "weight": 10
+    },
+    {
+      "type": "block",
+      "item": "minecraft:tube_coral_block",
+      "weight": 10
+    },
+    {
+      "type": "block",
+      "item": "minecraft:diamond_ore",
+      "weight": 5
+    },
+    {
+      "type": "block",
+      "item": "minecraft:cobblestone",
+      "weight": 170
+    },
+    {
+      "type": "block",
+      "item": "minecraft:mossy_cobblestone",
+      "weight": 90
+    },
+    {
+      "type": "block",
+      "item": "minecraft:moss_block",
+      "weight": 25
+    },
+    {
+      "type": "block",
+      "item": "minecraft:pearlescent_froglight",
+      "weight": 5
+    },
+    {
+      "type": "block",
+      "item": "minecraft:verdant_froglight",
+      "weight": 5
+    },
+    {
+      "type": "block",
+      "item": "minecraft:ochre_froglight",
+      "weight": 5
+    },
+    {
+      "type": "block",
+      "item": "minecraft:jungle_log",
+      "weight": 85
+    },
+    {
+      "type": "block",
+      "item": "minecraft:redstone_ore",
+      "weight": 25
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:goat",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:wolf",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:stray",
+      "weight": 7
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:fox",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:polar_bear",
+      "weight": 2
+    }
+  ]
+}

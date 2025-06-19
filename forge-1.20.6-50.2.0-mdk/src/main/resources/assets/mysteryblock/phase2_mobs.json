@@ -1,0 +1,29 @@
+{
+  "drops": [
+    {
+      "type": "mob",
+      "item": "minecraft:mooshroom",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:zombie",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:rabbit",
+      "weight": 3
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:spider",
+      "weight": 2
+    },
+    {
+      "type": "mob",
+      "item": "minecraft:creeper",
+      "weight": 2
+    }
+  ]
+}
